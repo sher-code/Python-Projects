@@ -1,1 +1,1 @@
-# Python-Projects
+This is a simple Python-based GUI Quiz Application developed using Tkinter, designed to provide an interactive multiple-choice quiz experience. It features a user-friendly interface, real-time score tracking, immediate feedback on answers, and an option to restart the quiz. The project demonstrates fundamental Python programming skills, including GUI development, event handling, and basic data management, making it ideal for beginners and educational purposes.
